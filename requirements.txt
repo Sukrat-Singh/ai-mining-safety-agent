@@ -1,0 +1,13 @@
+pdfplumber
+pandas
+pydantic
+transformers
+torch
+sentence-transformers
+chromadb
+langchain
+langchain-openai
+tiktoken
+fastapi
+uvicorn
+python-dotenv

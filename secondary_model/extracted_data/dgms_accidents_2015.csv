@@ -1,0 +1,29 @@
+accident_id,accident_code,date,year,state,district,mine_name,mine_type,owner,accident_type,cause,severity,fatalities,injuries,persons_killed,description
+1,,,2015,,,,Underground,,,,Minor,0,0,,
+2,"108
+-----------------------------------------------------------------",2015-05-16,2015,Rajasthan,,Khetri Copper Mine,Underground,Hindustan Copper Ltd.,,,Fatal,2,0,,
+3,"110
+-----------------------------------------------------------------------",2015-01-14,2015,Maharashtra,,Chikla Manganese Mine,Underground,Manganese Ore [India] Ltd.,,,Fatal,6,0,,
+4,,,2015,,,,Underground,,,,Minor,0,0,,
+5,"111
+-----------------------------------------------------------------------",2015-09-12,2015,Rajasthan,,Mochia Lead And Zink Mine,Opencast,Hindustan Zinc Ltd.,,,Fatal,1,0,,
+6,,2015-09-30,2015,Karnataka,,Hutti Gold Mine,Underground,Hutti Gold Mines Co. Ltd.,,,Fatal,1,0,,
+7,,,2015,,,,Underground,,,,Minor,0,0,,
+8,,2015-07-14,2015,Orissa,,Barsua Iron Ore Mine,Underground,Raw Material Division (Sail),,,Fatal,1,0,,
+9,"116
+-----------------------------------------------------------------",2015-01-05,2015,Rajasthan,,Chechat Limestone Mine,Underground,M/S Dilip Kumar Motilal Jain,,,Fatal,8,0,,
+10,,2015-05-13,2015,Chhattisgarh,,Dalli Mechanised Iron Ore Mine,Underground,M/S Bhilai Steel Plant,,,Fatal,1,0,,
+11,"119
+----------------------------------------------------------------------",2015-01-30,2015,Rajasthan,,Kabir Chawda Panchpera Pahar Sandstone 8,Underground,Shri Kabir Chawda,,,Fatal,5,0,,
+12,,,2015,,,,Underground,,,,Minor,0,0,,
+13,,2015-02-25,2015,Uttar Pradesh,,"Billi Markundi Stone(As 4601,2,3,6,8,9)",Underground,M/S B.Agrawal Stone Products Limited,,,Fatal,2,0,,
+14,,,2015,,,,Underground,,,,Minor,0,0,,
+15,,2015-10-05,2015,Rajasthan,,Jhanjhar Marble Mine M/L No.26/11,Underground,Shri Heeralal Teli,,,Fatal,2,0,,
+16,,,2015,,,,Underground,,,,Minor,0,0,,
+17,,2015-04-18,2015,Gujarat,,Ankleswar Project Oil Mine,Underground,Oil & Natural Gas Corporation Ltd.,,,Fatal,1,0,,
+18,,,2015,,,,Underground,,,,Minor,0,0,,
+19,2013-14/VR(NZ)/SNB-,2015-01-03,2015,Uttar Pradesh,,"Billi Markundi Stone Mine(S.N.7402Ka,740",Underground,Shri Ram Naresh,,,Fatal,9,0,,
+20,,2015-03-10,2015,Rajasthan,,Asahi India Glass Ltd. (Ml No. 14/06),Underground,M/S Asahi India Glass Limited,,,Fatal,4,0,,
+21,,,2015,,,,Underground,,,,Minor,0,0,,
+22,,2015-02-13,2015,Karnataka,,Balakundi Pink Granite Mine,Underground,Bharat Timber & Construction Co. Ltd.,,,Fatal,2,0,,
+23,1901-2015,2015-09-28,2015,Andhra Pradesh,,Chandrika Granite Mine,Underground,M/S Chandrika Granites,,,Fatal,4,0,,
