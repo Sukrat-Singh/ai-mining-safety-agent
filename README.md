@@ -99,7 +99,7 @@ ai-mining-safety-agent/
 ### Clone repo
 
 ```bash
-git clone https://github.com/<your-username>/ai-mining-safety-agent
+git clone https://github.com/Sukrat-Singh/ai-mining-safety-agent
 cd ai-mining-safety-agent
 ```
 
